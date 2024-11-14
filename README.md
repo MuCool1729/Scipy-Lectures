@@ -1,1 +1,1 @@
-# Scipy-Lectures
+# Scipy-Lectures.org
