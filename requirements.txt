@@ -6,3 +6,4 @@ numpy
 statsmodels
 plotly
 scipy
+ipkernel
