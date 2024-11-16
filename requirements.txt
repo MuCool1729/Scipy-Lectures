@@ -6,4 +6,5 @@ numpy
 statsmodels
 plotly
 scipy
-ipkernel
+ipykernel
+pooch
