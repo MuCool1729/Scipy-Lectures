@@ -3,7 +3,6 @@ repos:
   rev: 2.2.10
   hooks:
     - id: nbdev_clean
-    - id: nbdev_export
 
 - repo: https://github.com/mwouts/jupytext
   rev: v1.14.7
